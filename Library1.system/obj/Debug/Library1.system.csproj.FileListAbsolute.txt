@@ -1,0 +1,12 @@
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\Library1.system.dll.config
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\Library1.system.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\Library1.system.pdb
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\EntityFramework.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\Library2.Data.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\Library2.Data.pdb
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\EntityFramework.xml
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\obj\Debug\Library1.system.csprojResolveAssemblyReference.cache
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\obj\Debug\Library1.system.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library1.system\obj\Debug\Library1.system.pdb

@@ -1,0 +1,5 @@
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library2.Data\bin\Debug\Library2.Data.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library2.Data\bin\Debug\Library2.Data.pdb
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library2.Data\obj\Debug\Library2.Data.csprojResolveAssemblyReference.cache
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library2.Data\obj\Debug\Library2.Data.dll
+C:\Users\squadri2\Documents\GitHub\DVCS-Exercise\Library2.Data\obj\Debug\Library2.Data.pdb
